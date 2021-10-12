@@ -50,6 +50,9 @@
 .. image:: https://codecov.io/gh/cherrypy/cherrypy/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/cherrypy/cherrypy
    :alt: codecov
+   
+.. image:: https://img.shields.io/pypi/pyversions/cherrypy.svg
+   :target: https://pypi.org/project/cherrypy
 
 Welcome to the GitHub repository of `CherryPy <https://cherrypy.dev>`_!
 
